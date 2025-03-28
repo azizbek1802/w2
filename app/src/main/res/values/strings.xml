@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ilovam</string>
+    <string name="edit_text_hint">Matn kiriting</string>
+    <string name="button_toast_text">Toast chiqarish</string>
+    <string name="button_next_text">Keyingi sahifa</string>
+    <string name="second_activity_text">Bu SecondActivity oynasi!</string>
+</resources>
